@@ -1,4 +1,4 @@
-MODULE IMAGE by les power rangers mariam aleyna et mimi ( 12102825, 11908500, 12100162)
+# MODULE IMAGE by les power rangers 
 
 #### Prérequis: 
 
@@ -61,4 +61,4 @@ Ceci va génerer un dossier html qui contiendra le fichier html du site où se t
 Bien a vous,
 En espérant voir s'afficher 5/5 sur Tomuss ^_^
 xoxo
-Mariam EL OUARRAD, Miryam ATAMNA et Aleyna YAGBASAN.
+Mariam EL OUARRAD, Miryam ATAMNA et Aleyna YAGBASAN. 
